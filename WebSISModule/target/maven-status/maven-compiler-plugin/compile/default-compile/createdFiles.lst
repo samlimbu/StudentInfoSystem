@@ -1,0 +1,12 @@
+com\sam\sis\websismodule\controller\SubjectController.class
+com\sam\sis\websismodule\controller\test\Person.class
+com\sam\sis\websismodule\controller\test\PersonController.class
+com\sam\sis\websismodule\wrapper\SubjectList.class
+classes.class
+com\sam\sis\websismodule\controller\ClientAPIController.class
+com\sam\sis\websismodule\controller\ClassesController.class
+com\sam\sis\websismodule\controller\FacultyController.class
+com\sam\sis\websismodule\test\Linklist.class
+com\sam\sis\websismodule\controller\test\PersonListContainer.class
+com\sam\sis\websismodule\controller\DefaultController.class
+com\sam\sis\websismodule\test\Link.class
